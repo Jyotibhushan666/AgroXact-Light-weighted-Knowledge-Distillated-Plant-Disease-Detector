@@ -22,4 +22,3 @@ ditionally, a novel confidence-based severity estimation module predicts
  minimal architectural changes, enabling practical deployment in agricul
 ture.
 
-The source code for the android application can be accessed [here](https://drive.google.com/drive/folders/1yb2gMtevWZHMMeDI-DEq4O4iJCcoRI_h?usp=sharing).
