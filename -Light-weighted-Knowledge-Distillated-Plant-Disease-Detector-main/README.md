@@ -19,6 +19,5 @@ proaches—identifying Attention+CE as the optimal trade-off, achieving
 ditionally, a novel confidence-based severity estimation module predicts
  disease progression without extra labels. AgroXact demonstrates how
  leveraging object-text relationships can boost baseline performance with
- minimal architectural changes, enabling practical deployment in agricul
-ture.
+ minimal architectural changes, enabling practical deployment in agriculture.
 
